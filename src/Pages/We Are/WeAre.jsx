@@ -20,7 +20,7 @@ const WeAre = () => {
           />
         </figure>
         <div className="card-body">
-          <h1 className="text-4xl font-bold text-center">Niaz Morshed</h1>
+          <h1 className="text-4xl font-bold text-center">Group-01</h1>
           <p className="text-base font-semibold text-start">
             As the CEO of our esteemed establishment, I am thrilled to extend
             a warm and heartfelt greeting to each and every guest who graces
@@ -40,10 +40,7 @@ const WeAre = () => {
             src={"https://i.ibb.co/XjJyR46/received-1043292509942964.jpg"}
           />
         </figure>
-        <div className="card-body">
-          <h1 className="text-4xl font-bold text-center">Meherunnesa Mithila</h1>
-          <h1 className=" text-center  text-lg font-bold">Co Founder</h1>
-        </div>
+
       </div>
     </div>
   </div>
